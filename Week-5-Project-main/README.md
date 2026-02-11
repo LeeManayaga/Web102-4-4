@@ -1,6 +1,6 @@
 # Web Development Project 4 - *Cat App*
 
-Submitted by: **Robin Alvarez**
+Submitted by: 
 
 This web app: **Generate random images of cats**
 
